@@ -14,7 +14,7 @@ Contact Information: Umesh Jain - umesh.jain@infoorigin.com
 ```
 ## Table of Contents
 ```bash
- DEPLOYMENT:
+ INSTALLATION:
 
 1.1. Installing the Application
 
