@@ -60,21 +60,29 @@ Contact Information: Umesh Jain - umesh.jain@infoorigin.com
 
 2.2. Stopping the Application :   a) Stop the connection from connected database
 ```
-## 3. Maintenance
+## 3. Technologies used
 ```bash
-3.1. Regular Maintenance Tasks :   a) Oral refresh
+3.1. Database : Postgresql
+     Dashboard : Power Bi
+     Cloud :- Azure pipeline : Azure Postgresql Server, Function App, Azure storage
+     Logic App : Power Bi dataset refresh, email notification 
+```
+
+## 4. Maintenance
+```bash
+4.1. Regular Maintenance Tasks :   a) Oral refresh
                                    b) Power Bi updation
 
-3.2. Database Backup and Restore : a) Connect to postgresql database
+4.2. Database Backup and Restore : a) Connect to postgresql database
                                    b) Keep Postgresql updated
 
 ```
 
-## 4. Troubleshooting
+## 5. Troubleshooting
 
 
 ```bash
-4.1. Common Issues and Solutions :  a) Data on screen not matching with database
+5.1. Common Issues and Solutions :  a) Data on screen not matching with database
                                                 Solution 1-Refresh from browser
                                                          2-Restart database
 
